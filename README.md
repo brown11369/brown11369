@@ -1,9 +1,9 @@
-[![MasterHead](https://cutewallpaper.org/21/free-gif-backgrounds/Animated-Gif-Background-Html-Code-Matrix-Gif-Free-.gif)](https://www.brownbug.in/)
+[![MasterHead](https://gifimage.net/wp-content/uploads/2018/11/gif-banner-for-website-5.gif)](https://www.brownbug.in/)
 
 <h1 align="center">Hi 👋, I'm Barun Kumar</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif"/>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brown11369&label=Profile%20views&color=0e75b6&style=flat" alt="brown11369" /> </p>
 
